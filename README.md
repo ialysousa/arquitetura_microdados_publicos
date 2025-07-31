@@ -8,12 +8,10 @@ Este projeto implementa um pipeline local e automatizado para extrair, organizar
 
 ```
 microdados_pipeline/
-├── data/
 ├── etl/
 │   ├── enem_scraper.py       # Bronze
 │   ├── silver_loader.py      # Silver
 │   ├── gold_loader.py        # Gold
-├── notebooks/                # Análises no Jupyter
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
