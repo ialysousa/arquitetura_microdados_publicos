@@ -9,6 +9,7 @@ Este projeto implementa um pipeline local e automatizado para extrair, organizar
 ```
 microdados_pipeline/
 ├── dags/
+│   ├── automicroetl_enem.py
 ├── etl/
 │   ├── enem_scraper.py       # Bronze
 │   ├── silver_loader.py      # Silver
