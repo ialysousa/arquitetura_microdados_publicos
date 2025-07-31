@@ -1,0 +1,11 @@
+boto3
+pandas
+requests
+prefect
+boto3
+requests
+beautifulsoup4
+pandas
+openpyxl
+xlrd
+
