@@ -27,7 +27,7 @@ microdados_pipeline/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/microdados_pipeline.git
+git clone https://github.com/ialysousa/microdados_pipeline.git
 cd microdados_pipeline
 ```
 
